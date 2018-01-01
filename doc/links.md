@@ -1,3 +1,3 @@
 
 
-- Liste alle Controllstationen https://modellbahn.mahrer.net/technisches/zentralen/
+- [Liste aller Controllstationen](https://modellbahn.mahrer.net/technisches/zentralen/)
