@@ -1,0 +1,59 @@
+
+General
+=======
+Cur. selected channel    : CH1
+Alternate trigger        : False
+
+Channel CH1
+===========
+Enabled                  : 1
+Probe attenuation        : 1.0
+Y grid scale             : 1.000e+01 V/div
+Y shift                  : 4.000e-01 V
+Y inverted               : 0
+Time grid scale          : 1.000e-03 s/div
+Samplerate               : 2.000e+07 Samples/s
+Time delay               : 8.220e-03 s
+No. of recorded samples  : 1048576
+
+Trigger
+=======
+Mode                     : Edge
+Source                   : CH1
+Coupling                 : DC
+Sweep                    : Single
+Holdoff                  : 5.000e-07 s
+Sensitivity              : 3.800e-01 div
+Level                    : 0.000e+00 V
+Edge direction           : RISE
+
+Channel CH2
+===========
+Enabled                  : 0
+
+Trigger
+=======
+Mode                     : Edge
+Source                   : CH1
+Coupling                 : DC
+Sweep                    : Single
+Holdoff                  : 5.000e-07 s
+Sensitivity              : 3.800e-01 div
+Level                    : 0.000e+00 V
+Edge direction           : RISE
+
+Channel CHLA
+============
+Enabled                  : 0
+
+Trigger
+=======
+Mode                     : Edge
+Source                   : CH1
+Coupling                 : DC
+Sweep                    : Single
+Holdoff                  : 5.000e-07 s
+Sensitivity              : 3.800e-01 div
+Level                    : 0.000e+00 V
+Edge direction           : RISE
+
